@@ -32,12 +32,3 @@ class ProxyProvider:
     def proxy(self):
         self._get_next_proxy()
         return self._current_proxy
-
-
-if __name__ == '__main__':
-    proxy_provider = ProxyProvider()
-    while True:
-        if proxy := proxy_provider.proxy is None:
-            break
-        else:
-            print(proxy)
