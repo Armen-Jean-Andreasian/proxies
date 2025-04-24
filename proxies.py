@@ -3,8 +3,8 @@ import json
 
 class ProxyGallery:
     def __init__(self, proxy_file: str):
-        self._proxies: list[dict[str, str]] = self._load_proxies()
         self.proxy_file = proxy_file
+        self._proxies: list[dict[str, str]] = self._load_proxies()
 
     def _load_proxies(self):
         with open(self.proxy_file, encoding='utf-8') as jf:
@@ -32,3 +32,12 @@ class ProxyProvider:
     def proxy(self):
         self._get_next_proxy()
         return self._current_proxy
+
+
+if __name__ == '__main__':
+    proxy_provider = ProxyProvider()
+    while True:
+        if proxy := proxy_provider.proxy is None:
+            break
+        else:
+            print(proxy)
