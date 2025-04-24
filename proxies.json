@@ -1,0 +1,2930 @@
+[
+  {
+    "IP": "13.59.156.167",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 106
+  },
+  {
+    "IP": "99.80.11.54",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Ireland",
+    "ISO": "IE",
+    "PING": 248
+  },
+  {
+    "IP": "13.37.89.201",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "France",
+    "ISO": "FR",
+    "PING": 243
+  },
+  {
+    "IP": "83.168.74.163",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "Poland",
+    "ISO": "PL",
+    "PING": 298
+  },
+  {
+    "IP": "3.136.29.104",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 140
+  },
+  {
+    "IP": "181.30.67.132",
+    "PORT": "3663",
+    "ANON": "Transparent",
+    "COUNTRY": "Argentina",
+    "ISO": "AR",
+    "PING": 100
+  },
+  {
+    "IP": "213.148.13.149",
+    "PORT": "3128",
+    "ANON": "Transparent",
+    "COUNTRY": "Russia",
+    "ISO": "RU",
+    "PING": 335
+  },
+  {
+    "IP": "47.90.167.27",
+    "PORT": "100",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 230
+  },
+  {
+    "IP": "47.122.56.158",
+    "PORT": "9098",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 362
+  },
+  {
+    "IP": "47.251.87.74",
+    "PORT": "8008",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 301
+  },
+  {
+    "IP": "15.156.24.206",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 377
+  },
+  {
+    "IP": "137.184.100.135",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 314
+  },
+  {
+    "IP": "51.16.179.113",
+    "PORT": "1080",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 238
+  },
+  {
+    "IP": "200.174.198.86",
+    "PORT": "8888",
+    "ANON": "Anonymous",
+    "COUNTRY": "Brazil",
+    "ISO": "BR",
+    "PING": 386
+  },
+  {
+    "IP": "3.126.147.182",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 196
+  },
+  {
+    "IP": "80.249.112.162",
+    "PORT": "80",
+    "ANON": "Anonymous",
+    "COUNTRY": "Iran",
+    "ISO": "IR",
+    "PING": 315
+  },
+  {
+    "IP": "110.43.221.121",
+    "PORT": "7088",
+    "ANON": "Anonymous",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 241
+  },
+  {
+    "IP": "190.103.177.131",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Argentina",
+    "ISO": "AR",
+    "PING": 284
+  },
+  {
+    "IP": "8.211.49.86",
+    "PORT": "2000",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 371
+  },
+  {
+    "IP": "117.74.65.207",
+    "PORT": "443",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 187
+  },
+  {
+    "IP": "190.52.100.170",
+    "PORT": "999",
+    "ANON": "Transparent",
+    "COUNTRY": "Venezuela",
+    "ISO": "VE",
+    "PING": 121
+  },
+  {
+    "IP": "61.160.247.69",
+    "PORT": "9999",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 271
+  },
+  {
+    "IP": "106.14.241.115",
+    "PORT": "80",
+    "ANON": "Transparent",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 151
+  },
+  {
+    "IP": "118.113.247.153",
+    "PORT": "2324",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 274
+  },
+  {
+    "IP": "60.183.57.76",
+    "PORT": "8085",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 97
+  },
+  {
+    "IP": "18.185.169.150",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 216
+  },
+  {
+    "IP": "139.162.78.109",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Japan",
+    "ISO": "JP",
+    "PING": 214
+  },
+  {
+    "IP": "79.110.200.148",
+    "PORT": "8081",
+    "ANON": "Elite",
+    "COUNTRY": "Poland",
+    "ISO": "PL",
+    "PING": 264
+  },
+  {
+    "IP": "204.236.137.68",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 142
+  },
+  {
+    "IP": "8.213.156.191",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "South Korea",
+    "ISO": "KR",
+    "PING": 167
+  },
+  {
+    "IP": "8.213.222.157",
+    "PORT": "4000",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 370
+  },
+  {
+    "IP": "52.196.1.182",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Japan",
+    "ISO": "JP",
+    "PING": 259
+  },
+  {
+    "IP": "3.97.176.251",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 212
+  },
+  {
+    "IP": "118.113.244.103",
+    "PORT": "2324",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 357
+  },
+  {
+    "IP": "54.179.39.14",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 359
+  },
+  {
+    "IP": "23.247.136.245",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Netherlands",
+    "ISO": "NL",
+    "PING": 232
+  },
+  {
+    "IP": "8.213.134.213",
+    "PORT": "89",
+    "ANON": "Elite",
+    "COUNTRY": "South Korea",
+    "ISO": "KR",
+    "PING": 229
+  },
+  {
+    "IP": "47.91.29.151",
+    "PORT": "6379",
+    "ANON": "Elite",
+    "COUNTRY": "Japan",
+    "ISO": "JP",
+    "PING": 356
+  },
+  {
+    "IP": "8.220.204.92",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 132
+  },
+  {
+    "IP": "52.67.10.183",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Brazil",
+    "ISO": "BR",
+    "PING": 260
+  },
+  {
+    "IP": "67.43.227.226",
+    "PORT": "18099",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 135
+  },
+  {
+    "IP": "8.211.51.115",
+    "PORT": "104",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 372
+  },
+  {
+    "IP": "106.42.30.243",
+    "PORT": "82",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 285
+  },
+  {
+    "IP": "47.251.87.74",
+    "PORT": "4145",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 307
+  },
+  {
+    "IP": "68.183.44.44",
+    "PORT": "80",
+    "ANON": "Transparent",
+    "COUNTRY": "United Kingdom",
+    "ISO": "GB",
+    "PING": 281
+  },
+  {
+    "IP": "27.131.13.213",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "Bangladesh",
+    "ISO": "BD",
+    "PING": 219
+  },
+  {
+    "IP": "27.189.134.101",
+    "PORT": "8089",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 107
+  },
+  {
+    "IP": "35.76.62.196",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Japan",
+    "ISO": "JP",
+    "PING": 310
+  },
+  {
+    "IP": "47.122.60.157",
+    "PORT": "9080",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 396
+  },
+  {
+    "IP": "158.255.77.166",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United Arab Emirates",
+    "ISO": "AE",
+    "PING": 202
+  },
+  {
+    "IP": "47.74.46.81",
+    "PORT": "45",
+    "ANON": "Elite",
+    "COUNTRY": "Japan",
+    "ISO": "JP",
+    "PING": 287
+  },
+  {
+    "IP": "71.14.218.2",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 228
+  },
+  {
+    "IP": "79.110.202.131",
+    "PORT": "8081",
+    "ANON": "Elite",
+    "COUNTRY": "Poland",
+    "ISO": "PL",
+    "PING": 375
+  },
+  {
+    "IP": "8.211.194.78",
+    "PORT": "81",
+    "ANON": "Elite",
+    "COUNTRY": "United Kingdom",
+    "ISO": "GB",
+    "PING": 316
+  },
+  {
+    "IP": "67.43.227.226",
+    "PORT": "23057",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 201
+  },
+  {
+    "IP": "47.252.11.233",
+    "PORT": "14186",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 205
+  },
+  {
+    "IP": "47.91.29.151",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "Japan",
+    "ISO": "JP",
+    "PING": 301
+  },
+  {
+    "IP": "8.211.194.85",
+    "PORT": "100",
+    "ANON": "Elite",
+    "COUNTRY": "United Kingdom",
+    "ISO": "GB",
+    "PING": 222
+  },
+  {
+    "IP": "47.251.87.74",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 288
+  },
+  {
+    "IP": "8.213.134.213",
+    "PORT": "9080",
+    "ANON": "Elite",
+    "COUNTRY": "South Korea",
+    "ISO": "KR",
+    "PING": 374
+  },
+  {
+    "IP": "15.236.106.236",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "France",
+    "ISO": "FR",
+    "PING": 229
+  },
+  {
+    "IP": "8.213.215.187",
+    "PORT": "1081",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 158
+  },
+  {
+    "IP": "8.221.138.111",
+    "PORT": "100",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 166
+  },
+  {
+    "IP": "47.122.65.32",
+    "PORT": "9080",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 253
+  },
+  {
+    "IP": "47.91.29.151",
+    "PORT": "41",
+    "ANON": "Elite",
+    "COUNTRY": "Japan",
+    "ISO": "JP",
+    "PING": 94
+  },
+  {
+    "IP": "39.102.214.199",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 350
+  },
+  {
+    "IP": "120.26.52.35",
+    "PORT": "3333",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 385
+  },
+  {
+    "IP": "3.71.239.218",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 252
+  },
+  {
+    "IP": "8.213.215.187",
+    "PORT": "104",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 99
+  },
+  {
+    "IP": "47.91.89.3",
+    "PORT": "5060",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 384
+  },
+  {
+    "IP": "8.211.194.85",
+    "PORT": "31433",
+    "ANON": "Elite",
+    "COUNTRY": "United Kingdom",
+    "ISO": "GB",
+    "PING": 102
+  },
+  {
+    "IP": "67.43.228.250",
+    "PORT": "13757",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 306
+  },
+  {
+    "IP": "8.210.17.35",
+    "PORT": "119",
+    "ANON": "Elite",
+    "COUNTRY": "Hong Kong",
+    "ISO": "HK",
+    "PING": 316
+  },
+  {
+    "IP": "47.251.43.115",
+    "PORT": "33333",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 93
+  },
+  {
+    "IP": "8.211.51.115",
+    "PORT": "31433",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 373
+  },
+  {
+    "IP": "8.213.222.157",
+    "PORT": "443",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 372
+  },
+  {
+    "IP": "149.129.226.9",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "Indonesia",
+    "ISO": "ID",
+    "PING": 110
+  },
+  {
+    "IP": "3.127.62.252",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 91
+  },
+  {
+    "IP": "13.56.192.187",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 275
+  },
+  {
+    "IP": "185.132.242.212",
+    "PORT": "8083",
+    "ANON": "Elite",
+    "COUNTRY": "Russia",
+    "ISO": "RU",
+    "PING": 121
+  },
+  {
+    "IP": "47.237.92.86",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 182
+  },
+  {
+    "IP": "98.8.195.160",
+    "PORT": "443",
+    "ANON": "Transparent",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 275
+  },
+  {
+    "IP": "59.39.63.54",
+    "PORT": "6399",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 188
+  },
+  {
+    "IP": "46.12.67.141",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "Greece",
+    "ISO": "GR",
+    "PING": 278
+  },
+  {
+    "IP": "119.3.113.152",
+    "PORT": "9094",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 222
+  },
+  {
+    "IP": "44.195.247.145",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 233
+  },
+  {
+    "IP": "52.16.232.164",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Ireland",
+    "ISO": "IE",
+    "PING": 200
+  },
+  {
+    "IP": "103.35.108.244",
+    "PORT": "2024",
+    "ANON": "Transparent",
+    "COUNTRY": "Bangladesh",
+    "ISO": "BD",
+    "PING": 358
+  },
+  {
+    "IP": "175.139.233.79",
+    "PORT": "80",
+    "ANON": "Anonymous",
+    "COUNTRY": "Malaysia",
+    "ISO": "MY",
+    "PING": 220
+  },
+  {
+    "IP": "154.12.242.178",
+    "PORT": "8080",
+    "ANON": "Transparent",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 112
+  },
+  {
+    "IP": "8.213.134.213",
+    "PORT": "8081",
+    "ANON": "Elite",
+    "COUNTRY": "South Korea",
+    "ISO": "KR",
+    "PING": 235
+  },
+  {
+    "IP": "47.122.65.254",
+    "PORT": "8008",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 308
+  },
+  {
+    "IP": "8.148.23.202",
+    "PORT": "4000",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 97
+  },
+  {
+    "IP": "44.219.175.186",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 343
+  },
+  {
+    "IP": "47.91.110.148",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United Arab Emirates",
+    "ISO": "AE",
+    "PING": 374
+  },
+  {
+    "IP": "164.163.40.90",
+    "PORT": "10000",
+    "ANON": "Transparent",
+    "COUNTRY": "Argentina",
+    "ISO": "AR",
+    "PING": 109
+  },
+  {
+    "IP": "8.137.38.48",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 122
+  },
+  {
+    "IP": "8.221.139.222",
+    "PORT": "8085",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 394
+  },
+  {
+    "IP": "149.129.226.9",
+    "PORT": "4145",
+    "ANON": "Elite",
+    "COUNTRY": "Indonesia",
+    "ISO": "ID",
+    "PING": 223
+  },
+  {
+    "IP": "8.213.222.157",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 145
+  },
+  {
+    "IP": "3.123.150.192",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 158
+  },
+  {
+    "IP": "3.122.84.99",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 118
+  },
+  {
+    "IP": "44.218.183.55",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 229
+  },
+  {
+    "IP": "8.210.17.35",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Hong Kong",
+    "ISO": "HK",
+    "PING": 321
+  },
+  {
+    "IP": "47.122.64.36",
+    "PORT": "9080",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 372
+  },
+  {
+    "IP": "103.152.112.159",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 312
+  },
+  {
+    "IP": "62.33.53.248",
+    "PORT": "3128",
+    "ANON": "Transparent",
+    "COUNTRY": "Russia",
+    "ISO": "RU",
+    "PING": 230
+  },
+  {
+    "IP": "47.238.130.212",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 378
+  },
+  {
+    "IP": "211.251.236.253",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "South Korea",
+    "ISO": "KR",
+    "PING": 306
+  },
+  {
+    "IP": "52.73.224.54",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 212
+  },
+  {
+    "IP": "47.238.130.212",
+    "PORT": "8081",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 153
+  },
+  {
+    "IP": "142.93.202.130",
+    "PORT": "3128",
+    "ANON": "Transparent",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 201
+  },
+  {
+    "IP": "67.43.228.250",
+    "PORT": "14189",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 341
+  },
+  {
+    "IP": "3.129.184.210",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 217
+  },
+  {
+    "IP": "47.254.36.213",
+    "PORT": "20",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 140
+  },
+  {
+    "IP": "8.211.195.139",
+    "PORT": "1000",
+    "ANON": "Elite",
+    "COUNTRY": "United Kingdom",
+    "ISO": "GB",
+    "PING": 131
+  },
+  {
+    "IP": "47.109.83.196",
+    "PORT": "9098",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 324
+  },
+  {
+    "IP": "23.88.116.40",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 397
+  },
+  {
+    "IP": "183.240.196.55",
+    "PORT": "38080",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 287
+  },
+  {
+    "IP": "222.252.194.204",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "Vietnam",
+    "ISO": "VN",
+    "PING": 312
+  },
+  {
+    "IP": "87.248.129.26",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Iran",
+    "ISO": "IR",
+    "PING": 351
+  },
+  {
+    "IP": "176.98.80.71",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "Ukraine",
+    "ISO": "UA",
+    "PING": 276
+  },
+  {
+    "IP": "119.3.113.151",
+    "PORT": "9094",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 390
+  },
+  {
+    "IP": "72.10.160.170",
+    "PORT": "10367",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 201
+  },
+  {
+    "IP": "112.105.10.58",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Taiwan",
+    "ISO": "TW",
+    "PING": 287
+  },
+  {
+    "IP": "47.122.56.158",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 328
+  },
+  {
+    "IP": "47.74.46.81",
+    "PORT": "11310",
+    "ANON": "Elite",
+    "COUNTRY": "Japan",
+    "ISO": "JP",
+    "PING": 244
+  },
+  {
+    "IP": "103.49.202.252",
+    "PORT": "80",
+    "ANON": "Anonymous",
+    "COUNTRY": "Bangladesh",
+    "ISO": "BD",
+    "PING": 359
+  },
+  {
+    "IP": "72.10.164.178",
+    "PORT": "16703",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 133
+  },
+  {
+    "IP": "148.66.6.214",
+    "PORT": "80",
+    "ANON": "Transparent",
+    "COUNTRY": "Hong Kong",
+    "ISO": "HK",
+    "PING": 294
+  },
+  {
+    "IP": "8.210.17.35",
+    "PORT": "8081",
+    "ANON": "Elite",
+    "COUNTRY": "Hong Kong",
+    "ISO": "HK",
+    "PING": 191
+  },
+  {
+    "IP": "13.213.114.238",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 168
+  },
+  {
+    "IP": "8.211.195.173",
+    "PORT": "100",
+    "ANON": "Elite",
+    "COUNTRY": "United Kingdom",
+    "ISO": "GB",
+    "PING": 322
+  },
+  {
+    "IP": "8.213.195.191",
+    "PORT": "8095",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 251
+  },
+  {
+    "IP": "39.101.65.228",
+    "PORT": "83",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 233
+  },
+  {
+    "IP": "8.213.215.187",
+    "PORT": "143",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 338
+  },
+  {
+    "IP": "47.252.18.37",
+    "PORT": "9098",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 146
+  },
+  {
+    "IP": "8.213.195.191",
+    "PORT": "8008",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 113
+  },
+  {
+    "IP": "160.248.7.177",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Japan",
+    "ISO": "JP",
+    "PING": 165
+  },
+  {
+    "IP": "133.18.234.13",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Japan",
+    "ISO": "JP",
+    "PING": 210
+  },
+  {
+    "IP": "13.48.109.48",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Sweden",
+    "ISO": "SE",
+    "PING": 234
+  },
+  {
+    "IP": "8.130.34.44",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 171
+  },
+  {
+    "IP": "8.220.204.215",
+    "PORT": "8443",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 121
+  },
+  {
+    "IP": "13.37.59.99",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "France",
+    "ISO": "FR",
+    "PING": 233
+  },
+  {
+    "IP": "116.108.1.126",
+    "PORT": "10058",
+    "ANON": "Elite",
+    "COUNTRY": "Vietnam",
+    "ISO": "VN",
+    "PING": 161
+  },
+  {
+    "IP": "116.108.1.126",
+    "PORT": "10011",
+    "ANON": "Elite",
+    "COUNTRY": "Vietnam",
+    "ISO": "VN",
+    "PING": 99
+  },
+  {
+    "IP": "8.213.197.208",
+    "PORT": "31433",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 335
+  },
+  {
+    "IP": "8.221.139.222",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 359
+  },
+  {
+    "IP": "47.252.18.37",
+    "PORT": "6379",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 291
+  },
+  {
+    "IP": "47.121.182.88",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 228
+  },
+  {
+    "IP": "54.233.119.172",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Brazil",
+    "ISO": "BR",
+    "PING": 275
+  },
+  {
+    "IP": "47.238.134.126",
+    "PORT": "8181",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 331
+  },
+  {
+    "IP": "158.255.77.168",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United Arab Emirates",
+    "ISO": "AE",
+    "PING": 386
+  },
+  {
+    "IP": "3.212.148.199",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 209
+  },
+  {
+    "IP": "47.250.177.202",
+    "PORT": "9080",
+    "ANON": "Elite",
+    "COUNTRY": "Malaysia",
+    "ISO": "MY",
+    "PING": 292
+  },
+  {
+    "IP": "8.211.200.183",
+    "PORT": "1720",
+    "ANON": "Elite",
+    "COUNTRY": "United Kingdom",
+    "ISO": "GB",
+    "PING": 363
+  },
+  {
+    "IP": "43.154.134.238",
+    "PORT": "50001",
+    "ANON": "Elite",
+    "COUNTRY": "Hong Kong",
+    "ISO": "HK",
+    "PING": 261
+  },
+  {
+    "IP": "203.115.101.51",
+    "PORT": "82",
+    "ANON": "Elite",
+    "COUNTRY": "India",
+    "ISO": "IN",
+    "PING": 183
+  },
+  {
+    "IP": "159.65.245.255",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 273
+  },
+  {
+    "IP": "47.56.110.204",
+    "PORT": "8989",
+    "ANON": "Elite",
+    "COUNTRY": "Hong Kong",
+    "ISO": "HK",
+    "PING": 213
+  },
+  {
+    "IP": "31.47.58.37",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Iran",
+    "ISO": "IR",
+    "PING": 256
+  },
+  {
+    "IP": "58.243.224.244",
+    "PORT": "8085",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 117
+  },
+  {
+    "IP": "77.242.98.39",
+    "PORT": "8080",
+    "ANON": "Transparent",
+    "COUNTRY": "Russia",
+    "ISO": "RU",
+    "PING": 106
+  },
+  {
+    "IP": "3.130.65.162",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 149
+  },
+  {
+    "IP": "59.53.80.122",
+    "PORT": "10024",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 123
+  },
+  {
+    "IP": "103.152.112.157",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 175
+  },
+  {
+    "IP": "43.129.201.43",
+    "PORT": "443",
+    "ANON": "Elite",
+    "COUNTRY": "Hong Kong",
+    "ISO": "HK",
+    "PING": 359
+  },
+  {
+    "IP": "8.211.42.167",
+    "PORT": "104",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 238
+  },
+  {
+    "IP": "3.127.121.101",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 154
+  },
+  {
+    "IP": "72.10.160.170",
+    "PORT": "6733",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 140
+  },
+  {
+    "IP": "54.152.3.36",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 281
+  },
+  {
+    "IP": "3.124.133.93",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 122
+  },
+  {
+    "IP": "16.16.239.39",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Sweden",
+    "ISO": "SE",
+    "PING": 350
+  },
+  {
+    "IP": "66.29.154.103",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 321
+  },
+  {
+    "IP": "13.36.113.81",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "France",
+    "ISO": "FR",
+    "PING": 365
+  },
+  {
+    "IP": "8.213.222.247",
+    "PORT": "666",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 392
+  },
+  {
+    "IP": "97.74.87.226",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 387
+  },
+  {
+    "IP": "27.189.133.254",
+    "PORT": "8089",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 113
+  },
+  {
+    "IP": "8.211.42.167",
+    "PORT": "9080",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 270
+  },
+  {
+    "IP": "198.49.68.80",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 297
+  },
+  {
+    "IP": "51.20.19.159",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 285
+  },
+  {
+    "IP": "8.211.200.183",
+    "PORT": "2019",
+    "ANON": "Elite",
+    "COUNTRY": "United Kingdom",
+    "ISO": "GB",
+    "PING": 135
+  },
+  {
+    "IP": "67.43.228.250",
+    "PORT": "1997",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 291
+  },
+  {
+    "IP": "18.228.149.161",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Brazil",
+    "ISO": "BR",
+    "PING": 391
+  },
+  {
+    "IP": "79.174.12.190",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Russia",
+    "ISO": "RU",
+    "PING": 260
+  },
+  {
+    "IP": "38.54.101.254",
+    "PORT": "17947",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 139
+  },
+  {
+    "IP": "47.251.74.38",
+    "PORT": "8008",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 284
+  },
+  {
+    "IP": "67.43.228.251",
+    "PORT": "7645",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 168
+  },
+  {
+    "IP": "13.37.73.214",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "France",
+    "ISO": "FR",
+    "PING": 376
+  },
+  {
+    "IP": "8.215.3.250",
+    "PORT": "264",
+    "ANON": "Elite",
+    "COUNTRY": "Indonesia",
+    "ISO": "ID",
+    "PING": 234
+  },
+  {
+    "IP": "13.246.209.48",
+    "PORT": "1080",
+    "ANON": "Elite",
+    "COUNTRY": "South Africa",
+    "ISO": "ZA",
+    "PING": 325
+  },
+  {
+    "IP": "38.54.116.9",
+    "PORT": "9098",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 288
+  },
+  {
+    "IP": "118.113.245.191",
+    "PORT": "2324",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 127
+  },
+  {
+    "IP": "164.163.42.46",
+    "PORT": "10000",
+    "ANON": "Transparent",
+    "COUNTRY": "Argentina",
+    "ISO": "AR",
+    "PING": 247
+  },
+  {
+    "IP": "111.34.79.216",
+    "PORT": "10219",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 334
+  },
+  {
+    "IP": "8.213.222.247",
+    "PORT": "30000",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 188
+  },
+  {
+    "IP": "47.254.36.213",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 206
+  },
+  {
+    "IP": "38.242.202.236",
+    "PORT": "8080",
+    "ANON": "Transparent",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 212
+  },
+  {
+    "IP": "47.123.4.107",
+    "PORT": "9100",
+    "ANON": "Transparent",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 304
+  },
+  {
+    "IP": "47.238.130.212",
+    "PORT": "443",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 283
+  },
+  {
+    "IP": "47.90.149.238",
+    "PORT": "1036",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 271
+  },
+  {
+    "IP": "218.77.183.214",
+    "PORT": "5224",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 216
+  },
+  {
+    "IP": "72.10.164.178",
+    "PORT": "11507",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 231
+  },
+  {
+    "IP": "123.154.248.77",
+    "PORT": "8085",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 324
+  },
+  {
+    "IP": "13.36.104.85",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "France",
+    "ISO": "FR",
+    "PING": 366
+  },
+  {
+    "IP": "18.228.198.164",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Brazil",
+    "ISO": "BR",
+    "PING": 121
+  },
+  {
+    "IP": "67.43.236.18",
+    "PORT": "7861",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 288
+  },
+  {
+    "IP": "13.208.56.180",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Japan",
+    "ISO": "JP",
+    "PING": 93
+  },
+  {
+    "IP": "27.75.207.234",
+    "PORT": "5106",
+    "ANON": "Transparent",
+    "COUNTRY": "Vietnam",
+    "ISO": "VN",
+    "PING": 288
+  },
+  {
+    "IP": "8.130.34.237",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 173
+  },
+  {
+    "IP": "3.21.101.158",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 99
+  },
+  {
+    "IP": "47.238.134.126",
+    "PORT": "999",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 268
+  },
+  {
+    "IP": "87.248.129.32",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Iran",
+    "ISO": "IR",
+    "PING": 349
+  },
+  {
+    "IP": "204.236.176.61",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 144
+  },
+  {
+    "IP": "47.76.144.139",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 135
+  },
+  {
+    "IP": "67.43.228.252",
+    "PORT": "14219",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 111
+  },
+  {
+    "IP": "79.110.201.235",
+    "PORT": "8081",
+    "ANON": "Elite",
+    "COUNTRY": "Poland",
+    "ISO": "PL",
+    "PING": 276
+  },
+  {
+    "IP": "8.211.42.167",
+    "PORT": "25565",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 363
+  },
+  {
+    "IP": "47.76.144.139",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 125
+  },
+  {
+    "IP": "72.10.160.94",
+    "PORT": "25343",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 398
+  },
+  {
+    "IP": "3.141.217.225",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 185
+  },
+  {
+    "IP": "8.213.222.247",
+    "PORT": "9098",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 212
+  },
+  {
+    "IP": "52.63.129.110",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Australia",
+    "ISO": "AU",
+    "PING": 374
+  },
+  {
+    "IP": "47.122.65.254",
+    "PORT": "8081",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 160
+  },
+  {
+    "IP": "23.247.136.254",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Netherlands",
+    "ISO": "NL",
+    "PING": 111
+  },
+  {
+    "IP": "47.238.134.126",
+    "PORT": "9080",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 180
+  },
+  {
+    "IP": "8.210.38.209",
+    "PORT": "1081",
+    "ANON": "Elite",
+    "COUNTRY": "Hong Kong",
+    "ISO": "HK",
+    "PING": 259
+  },
+  {
+    "IP": "91.83.220.124",
+    "PORT": "1111",
+    "ANON": "Elite",
+    "COUNTRY": "Hungary",
+    "ISO": "HU",
+    "PING": 395
+  },
+  {
+    "IP": "3.37.125.76",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "South Korea",
+    "ISO": "KR",
+    "PING": 361
+  },
+  {
+    "IP": "123.30.154.171",
+    "PORT": "7777",
+    "ANON": "Elite",
+    "COUNTRY": "Vietnam",
+    "ISO": "VN",
+    "PING": 218
+  },
+  {
+    "IP": "45.140.143.77",
+    "PORT": "18080",
+    "ANON": "Elite",
+    "COUNTRY": "Netherlands",
+    "ISO": "NL",
+    "PING": 308
+  },
+  {
+    "IP": "14.204.29.141",
+    "PORT": "8085",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 128
+  },
+  {
+    "IP": "8.215.15.163",
+    "PORT": "8443",
+    "ANON": "Elite",
+    "COUNTRY": "Indonesia",
+    "ISO": "ID",
+    "PING": 196
+  },
+  {
+    "IP": "43.243.117.57",
+    "PORT": "80",
+    "ANON": "Transparent",
+    "COUNTRY": "Australia",
+    "ISO": "AU",
+    "PING": 132
+  },
+  {
+    "IP": "13.38.153.36",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "France",
+    "ISO": "FR",
+    "PING": 231
+  },
+  {
+    "IP": "47.121.133.212",
+    "PORT": "9080",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 261
+  },
+  {
+    "IP": "35.72.118.126",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Japan",
+    "ISO": "JP",
+    "PING": 107
+  },
+  {
+    "IP": "13.37.59.99",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "France",
+    "ISO": "FR",
+    "PING": 134
+  },
+  {
+    "IP": "47.237.92.86",
+    "PORT": "86",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 217
+  },
+  {
+    "IP": "67.43.228.250",
+    "PORT": "7207",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 368
+  },
+  {
+    "IP": "13.37.73.214",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "France",
+    "ISO": "FR",
+    "PING": 291
+  },
+  {
+    "IP": "38.224.97.9",
+    "PORT": "999",
+    "ANON": "Transparent",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 313
+  },
+  {
+    "IP": "120.26.104.146",
+    "PORT": "1111",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 323
+  },
+  {
+    "IP": "116.203.151.31",
+    "PORT": "3128",
+    "ANON": "Transparent",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 246
+  },
+  {
+    "IP": "43.201.121.81",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "South Korea",
+    "ISO": "KR",
+    "PING": 388
+  },
+  {
+    "IP": "51.20.50.149",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 133
+  },
+  {
+    "IP": "203.74.125.18",
+    "PORT": "8888",
+    "ANON": "Elite",
+    "COUNTRY": "Taiwan",
+    "ISO": "TW",
+    "PING": 354
+  },
+  {
+    "IP": "34.81.160.132",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Taiwan",
+    "ISO": "TW",
+    "PING": 105
+  },
+  {
+    "IP": "54.179.44.51",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 137
+  },
+  {
+    "IP": "103.152.112.195",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 192
+  },
+  {
+    "IP": "119.3.113.150",
+    "PORT": "9094",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 236
+  },
+  {
+    "IP": "13.38.176.104",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "France",
+    "ISO": "FR",
+    "PING": 366
+  },
+  {
+    "IP": "18.223.25.15",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 187
+  },
+  {
+    "IP": "138.201.159.200",
+    "PORT": "8118",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 243
+  },
+  {
+    "IP": "31.40.248.2",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "Russia",
+    "ISO": "RU",
+    "PING": 103
+  },
+  {
+    "IP": "3.12.144.146",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 238
+  },
+  {
+    "IP": "8.220.204.215",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 243
+  },
+  {
+    "IP": "8.213.156.191",
+    "PORT": "8008",
+    "ANON": "Elite",
+    "COUNTRY": "South Korea",
+    "ISO": "KR",
+    "PING": 162
+  },
+  {
+    "IP": "27.189.132.56",
+    "PORT": "8089",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 158
+  },
+  {
+    "IP": "3.139.242.184",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 276
+  },
+  {
+    "IP": "47.254.36.213",
+    "PORT": "9098",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 259
+  },
+  {
+    "IP": "3.97.167.115",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 152
+  },
+  {
+    "IP": "106.38.26.22",
+    "PORT": "2080",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 352
+  },
+  {
+    "IP": "61.164.204.130",
+    "PORT": "4999",
+    "ANON": "Transparent",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 136
+  },
+  {
+    "IP": "180.210.89.215",
+    "PORT": "3128",
+    "ANON": "Anonymous",
+    "COUNTRY": "South Korea",
+    "ISO": "KR",
+    "PING": 304
+  },
+  {
+    "IP": "149.129.226.9",
+    "PORT": "82",
+    "ANON": "Elite",
+    "COUNTRY": "Indonesia",
+    "ISO": "ID",
+    "PING": 199
+  },
+  {
+    "IP": "83.168.72.172",
+    "PORT": "8081",
+    "ANON": "Elite",
+    "COUNTRY": "Poland",
+    "ISO": "PL",
+    "PING": 212
+  },
+  {
+    "IP": "47.238.60.156",
+    "PORT": "5060",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 124
+  },
+  {
+    "IP": "54.228.164.102",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Ireland",
+    "ISO": "IE",
+    "PING": 213
+  },
+  {
+    "IP": "47.76.144.139",
+    "PORT": "4145",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 226
+  },
+  {
+    "IP": "8.215.15.163",
+    "PORT": "8022",
+    "ANON": "Elite",
+    "COUNTRY": "Indonesia",
+    "ISO": "ID",
+    "PING": 150
+  },
+  {
+    "IP": "43.163.87.93",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 292
+  },
+  {
+    "IP": "8.211.195.173",
+    "PORT": "8072",
+    "ANON": "Elite",
+    "COUNTRY": "United Kingdom",
+    "ISO": "GB",
+    "PING": 203
+  },
+  {
+    "IP": "47.238.60.156",
+    "PORT": "100",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 291
+  },
+  {
+    "IP": "183.234.215.11",
+    "PORT": "8443",
+    "ANON": "Anonymous",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 378
+  },
+  {
+    "IP": "51.68.175.56",
+    "PORT": "1080",
+    "ANON": "Elite",
+    "COUNTRY": "France",
+    "ISO": "FR",
+    "PING": 136
+  },
+  {
+    "IP": "72.10.160.170",
+    "PORT": "13439",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 361
+  },
+  {
+    "IP": "47.237.107.41",
+    "PORT": "8443",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 116
+  },
+  {
+    "IP": "3.78.92.159",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 329
+  },
+  {
+    "IP": "47.88.59.79",
+    "PORT": "82",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 146
+  },
+  {
+    "IP": "47.122.56.158",
+    "PORT": "8081",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 207
+  },
+  {
+    "IP": "61.79.73.225",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "South Korea",
+    "ISO": "KR",
+    "PING": 383
+  },
+  {
+    "IP": "8.211.195.173",
+    "PORT": "1234",
+    "ANON": "Elite",
+    "COUNTRY": "United Kingdom",
+    "ISO": "GB",
+    "PING": 109
+  },
+  {
+    "IP": "8.213.197.208",
+    "PORT": "808",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 156
+  },
+  {
+    "IP": "219.143.201.200",
+    "PORT": "8010",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 256
+  },
+  {
+    "IP": "27.189.134.18",
+    "PORT": "8089",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 215
+  },
+  {
+    "IP": "38.54.101.254",
+    "PORT": "31281",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 187
+  },
+  {
+    "IP": "8.219.229.53",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 109
+  },
+  {
+    "IP": "3.39.31.14",
+    "PORT": "3128",
+    "ANON": "Transparent",
+    "COUNTRY": "South Korea",
+    "ISO": "KR",
+    "PING": 99
+  },
+  {
+    "IP": "91.83.220.124",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "Hungary",
+    "ISO": "HU",
+    "PING": 183
+  },
+  {
+    "IP": "85.132.37.9",
+    "PORT": "1313",
+    "ANON": "Elite",
+    "COUNTRY": "Azerbaijan",
+    "ISO": "AZ",
+    "PING": 249
+  },
+  {
+    "IP": "13.56.192.187",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 216
+  },
+  {
+    "IP": "219.65.73.81",
+    "PORT": "80",
+    "ANON": "Anonymous",
+    "COUNTRY": "India",
+    "ISO": "IN",
+    "PING": 233
+  },
+  {
+    "IP": "221.231.13.198",
+    "PORT": "1080",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 108
+  },
+  {
+    "IP": "13.36.87.105",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "France",
+    "ISO": "FR",
+    "PING": 368
+  },
+  {
+    "IP": "219.93.101.60",
+    "PORT": "80",
+    "ANON": "Anonymous",
+    "COUNTRY": "Malaysia",
+    "ISO": "MY",
+    "PING": 293
+  },
+  {
+    "IP": "8.137.38.48",
+    "PORT": "4000",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 126
+  },
+  {
+    "IP": "47.237.92.86",
+    "PORT": "4916",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 185
+  },
+  {
+    "IP": "88.212.48.11",
+    "PORT": "4444",
+    "ANON": "Transparent",
+    "COUNTRY": "Slovakia",
+    "ISO": "SK",
+    "PING": 254
+  },
+  {
+    "IP": "95.66.138.21",
+    "PORT": "8880",
+    "ANON": "Elite",
+    "COUNTRY": "Russia",
+    "ISO": "RU",
+    "PING": 389
+  },
+  {
+    "IP": "54.67.125.45",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 236
+  },
+  {
+    "IP": "47.122.60.157",
+    "PORT": "8008",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 324
+  },
+  {
+    "IP": "8.137.38.48",
+    "PORT": "8081",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 280
+  },
+  {
+    "IP": "72.10.160.172",
+    "PORT": "5885",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 231
+  },
+  {
+    "IP": "184.169.154.119",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 263
+  },
+  {
+    "IP": "218.13.39.150",
+    "PORT": "9091",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 125
+  },
+  {
+    "IP": "103.63.190.72",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "Cambodia",
+    "ISO": "KH",
+    "PING": 371
+  },
+  {
+    "IP": "43.200.77.128",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "South Korea",
+    "ISO": "KR",
+    "PING": 212
+  },
+  {
+    "IP": "72.10.160.90",
+    "PORT": "29499",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 109
+  },
+  {
+    "IP": "103.152.112.186",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 334
+  },
+  {
+    "IP": "139.162.78.109",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "Japan",
+    "ISO": "JP",
+    "PING": 105
+  },
+  {
+    "IP": "52.65.193.254",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Australia",
+    "ISO": "AU",
+    "PING": 160
+  },
+  {
+    "IP": "47.122.61.139",
+    "PORT": "8090",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 277
+  },
+  {
+    "IP": "47.252.18.37",
+    "PORT": "100",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 216
+  },
+  {
+    "IP": "47.91.121.127",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "United Arab Emirates",
+    "ISO": "AE",
+    "PING": 190
+  },
+  {
+    "IP": "45.239.175.105",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "Brazil",
+    "ISO": "BR",
+    "PING": 298
+  },
+  {
+    "IP": "46.51.249.135",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Japan",
+    "ISO": "JP",
+    "PING": 208
+  },
+  {
+    "IP": "118.113.244.126",
+    "PORT": "2324",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 229
+  },
+  {
+    "IP": "63.35.64.177",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Ireland",
+    "ISO": "IE",
+    "PING": 264
+  },
+  {
+    "IP": "157.66.16.41",
+    "PORT": "8070",
+    "ANON": "Anonymous",
+    "COUNTRY": null,
+    "ISO": null,
+    "PING": 98
+  },
+  {
+    "IP": "72.10.160.172",
+    "PORT": "7815",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 155
+  },
+  {
+    "IP": "39.101.65.228",
+    "PORT": "9000",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 182
+  },
+  {
+    "IP": "78.157.57.71",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Iran",
+    "ISO": "IR",
+    "PING": 327
+  },
+  {
+    "IP": "8.215.3.250",
+    "PORT": "199",
+    "ANON": "Elite",
+    "COUNTRY": "Indonesia",
+    "ISO": "ID",
+    "PING": 118
+  },
+  {
+    "IP": "13.246.184.110",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "South Africa",
+    "ISO": "ZA",
+    "PING": 218
+  },
+  {
+    "IP": "35.79.120.242",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Japan",
+    "ISO": "JP",
+    "PING": 280
+  },
+  {
+    "IP": "85.215.64.49",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 378
+  },
+  {
+    "IP": "154.16.146.45",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 179
+  },
+  {
+    "IP": "8.220.204.92",
+    "PORT": "9091",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 386
+  },
+  {
+    "IP": "162.223.90.130",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 171
+  },
+  {
+    "IP": "95.66.244.250",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "Russia",
+    "ISO": "RU",
+    "PING": 320
+  },
+  {
+    "IP": "50.114.33.31",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 143
+  },
+  {
+    "IP": "54.248.238.110",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Japan",
+    "ISO": "JP",
+    "PING": 225
+  },
+  {
+    "IP": "149.129.255.179",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "Indonesia",
+    "ISO": "ID",
+    "PING": 100
+  },
+  {
+    "IP": "67.43.228.250",
+    "PORT": "23877",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 228
+  },
+  {
+    "IP": "3.90.100.12",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 211
+  },
+  {
+    "IP": "43.202.154.212",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "South Korea",
+    "ISO": "KR",
+    "PING": 375
+  },
+  {
+    "IP": "113.160.133.32",
+    "PORT": "8080",
+    "ANON": "Elite",
+    "COUNTRY": "Vietnam",
+    "ISO": "VN",
+    "PING": 128
+  },
+  {
+    "IP": "117.36.76.86",
+    "PORT": "8085",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 257
+  },
+  {
+    "IP": "72.10.160.170",
+    "PORT": "20309",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 130
+  },
+  {
+    "IP": "47.116.126.57",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 314
+  },
+  {
+    "IP": "47.122.64.36",
+    "PORT": "8081",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 385
+  },
+  {
+    "IP": "164.163.42.12",
+    "PORT": "10000",
+    "ANON": "Transparent",
+    "COUNTRY": "Argentina",
+    "ISO": "AR",
+    "PING": 233
+  },
+  {
+    "IP": "51.16.199.206",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 351
+  },
+  {
+    "IP": "47.91.121.127",
+    "PORT": "194",
+    "ANON": "Elite",
+    "COUNTRY": "United Arab Emirates",
+    "ISO": "AE",
+    "PING": 194
+  },
+  {
+    "IP": "8.213.156.191",
+    "PORT": "199",
+    "ANON": "Elite",
+    "COUNTRY": "South Korea",
+    "ISO": "KR",
+    "PING": 245
+  },
+  {
+    "IP": "203.115.101.53",
+    "PORT": "82",
+    "ANON": "Elite",
+    "COUNTRY": "India",
+    "ISO": "IN",
+    "PING": 291
+  },
+  {
+    "IP": "106.75.117.149",
+    "PORT": "8891",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 300
+  },
+  {
+    "IP": "47.104.198.111",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 197
+  },
+  {
+    "IP": "8.213.197.208",
+    "PORT": "8888",
+    "ANON": "Elite",
+    "COUNTRY": "Singapore",
+    "ISO": "SG",
+    "PING": 267
+  },
+  {
+    "IP": "67.43.228.250",
+    "PORT": "13187",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 338
+  },
+  {
+    "IP": "221.202.27.194",
+    "PORT": "10809",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 314
+  },
+  {
+    "IP": "47.250.155.254",
+    "PORT": "9098",
+    "ANON": "Elite",
+    "COUNTRY": "Malaysia",
+    "ISO": "MY",
+    "PING": 93
+  },
+  {
+    "IP": "63.32.1.88",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Ireland",
+    "ISO": "IE",
+    "PING": 352
+  },
+  {
+    "IP": "47.122.60.73",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 141
+  },
+  {
+    "IP": "47.96.225.104",
+    "PORT": "10086",
+    "ANON": "Elite",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 141
+  },
+  {
+    "IP": "103.152.112.120",
+    "PORT": "80",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 146
+  },
+  {
+    "IP": "122.224.124.26",
+    "PORT": "12080",
+    "ANON": "Anonymous",
+    "COUNTRY": "China",
+    "ISO": "CN",
+    "PING": 121
+  },
+  {
+    "IP": "185.105.102.179",
+    "PORT": "80",
+    "ANON": "Transparent",
+    "COUNTRY": "Iran",
+    "ISO": "IR",
+    "PING": 98
+  },
+  {
+    "IP": "51.17.58.162",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "United States",
+    "ISO": "US",
+    "PING": 96
+  },
+  {
+    "IP": "149.129.255.179",
+    "PORT": "8443",
+    "ANON": "Elite",
+    "COUNTRY": "Indonesia",
+    "ISO": "ID",
+    "PING": 178
+  },
+  {
+    "IP": "13.55.210.141",
+    "PORT": "3128",
+    "ANON": "Elite",
+    "COUNTRY": "Australia",
+    "ISO": "AU",
+    "PING": 270
+  },
+  {
+    "IP": "47.74.46.81",
+    "PORT": "102",
+    "ANON": "Elite",
+    "COUNTRY": "Japan",
+    "ISO": "JP",
+    "PING": 367
+  },
+  {
+    "IP": "72.10.160.172",
+    "PORT": "26825",
+    "ANON": "Elite",
+    "COUNTRY": "Canada",
+    "ISO": "CA",
+    "PING": 152
+  },
+  {
+    "IP": "47.91.89.3",
+    "PORT": "9098",
+    "ANON": "Elite",
+    "COUNTRY": "Germany",
+    "ISO": "DE",
+    "PING": 211
+  },
+  {
+    "IP": "8.215.15.163",
+    "PORT": "51",
+    "ANON": "Elite",
+    "COUNTRY": "Indonesia",
+    "ISO": "ID",
+    "PING": 385
+  }
+]
